@@ -582,7 +582,7 @@ function draw(){
         text("This is the Game where you are an Agent. The agent is on a mission to find",150,300 - 20);
         text("a very secret information from the enemies for which he needs to pass from",150,360 - 20);
         text("all the obstacles and most importantly, keep himself away from the sight",150,420 - 20);
-        text("of the enemy's spy. To be safe from the spy, he needs to camoflouge by",150,480 - 20);
+        text("of the enemy's spy. To be safe from the spy, he needs to camouflage by",150,480 - 20);
         text("hiding by colliding with the boxes in its way so that the enemy spy can",150,540 - 20);
         text("not detect him. If the enemy spy locates him then, he will have to restart",150,600 - 20);
         text("his deadly journey from the beginning.",150,660 - 20);
